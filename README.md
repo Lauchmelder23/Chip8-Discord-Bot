@@ -11,6 +11,8 @@ I implemented a chip8 interpreter as discord bot. End my suffering
   
   It does not contain every Chip8 opcode (yet)
   
+  I did not implement the fontmap (yet)
+  
   
 ## Commands:
 ?start [n]      -     Executes demo file *demo[n].ch8*
