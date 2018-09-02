@@ -14,4 +14,5 @@ I implemented a chip8 interpreter as discord bot. End my suffering
   
 ## Commands:
 ?start [n]      -     Executes demo file *demo[n].ch8*
+
 ?break          -     Stops execution. Does not work consistently
